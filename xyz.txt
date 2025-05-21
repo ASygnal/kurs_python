@@ -1,1 +1,9 @@
 cos tam cos tam
+elo elo
+9:00 - 10:30 zajęcia
+10:30 - 10:45 przerwa
+10:45 - 12:15 zajęcia
+12:15 - 13:15 przerwa
+13:15-14:45 zajęcia
+14:45 - 15:00 przerwa
+15:00 - 16:30 zajęcia
